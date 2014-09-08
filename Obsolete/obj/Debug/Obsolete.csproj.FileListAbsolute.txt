@@ -1,0 +1,6 @@
+C:\Users\pablo\Documents\Blog2014\Rapidinhas c#\Obsolete\bin\Debug\Obsolete.exe.config
+C:\Users\pablo\Documents\Blog2014\Rapidinhas c#\Obsolete\obj\Debug\Obsolete.csprojResolveAssemblyReference.cache
+C:\Users\pablo\Documents\Blog2014\Rapidinhas c#\Obsolete\bin\Debug\Obsolete.exe
+C:\Users\pablo\Documents\Blog2014\Rapidinhas c#\Obsolete\bin\Debug\Obsolete.pdb
+C:\Users\pablo\Documents\Blog2014\Rapidinhas c#\Obsolete\obj\Debug\Obsolete.exe
+C:\Users\pablo\Documents\Blog2014\Rapidinhas c#\Obsolete\obj\Debug\Obsolete.pdb
